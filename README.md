@@ -25,7 +25,7 @@ return [
     'dsn' => 'mysql:host=localhost;dbname=oop_login',
     'username' => 'ag2me',
     'password' => '0000'
-];
+]
 ```
     
 5.  Start the Apache and MySQL services in XAMPP.
